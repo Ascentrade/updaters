@@ -19,10 +19,6 @@ Make sure to change the path to the *.tar.gz package if your **interface** folde
 pip install ../interface/dist/ascentrade_client-*.tar.gz
 ```
 
-## Contributing
-
-We encourage public contributions! Please review [CONTRIBUTING.md](https://github.com/Ascentrade/docs/blob/main/CONTRIBUTING.md) for details.
-
 ## Unit Tests
 Run ```python test.py``` from inside this repository to execute the unit test script.
 ```
@@ -35,6 +31,10 @@ Ran 3 tests in 0.000s
 
 OK
 ```
+
+## Contributing
+
+We encourage public contributions! Please review [CONTRIBUTING.md](https://github.com/Ascentrade/docs/blob/main/CONTRIBUTING.md) for details.
 
 ## License
 
