@@ -13,7 +13,7 @@ python3.10 -m venv venv
 source venv/bin/activate
 pip3.10 install -r requirements.txt
 ```
-Unless the **ascentrade_client** libraray is available from public PyPI you need to install it from your local build.
+Unless the **ascentrade_client** library is available from public PyPI you need to install it from your local build.
 Make sure to change the path to the *.tar.gz package if your **interface** folder is not in the parent directory.
 ```
 pip install ../interface/dist/ascentrade_client-*.tar.gz
