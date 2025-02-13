@@ -1,0 +1,1 @@
+pip install ../interface/dist/ascentrade_client-*.tar.gz

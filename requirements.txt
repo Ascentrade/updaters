@@ -1,0 +1,11 @@
+python-dotenv
+asyncio
+httpx
+pydantic
+ariadne
+pandas
+aiofiles
+simplejson
+jsonpath_ng
+ascentrade_client
+websockets
